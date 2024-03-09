@@ -1,0 +1,22 @@
+﻿{
+"serverList":[
+		"主干|1|192.168.1.250:9401",
+		"外网|2|192.168.1.250:9402",
+		"朱明枪|14|192.168.1.111:9401",
+		"刘开宏|888|192.168.1.168:9401",
+		"邓智琦|77|192.168.1.58:9401"
+	],
+"resList":[
+		"主干|http://192.168.1.252:8081/trunk/client/resource/",
+		"外网|http://192.168.1.252:8081/branch_waiwang/client/resource/",
+		"韦旭华|http://192.168.1.110:8082/trunk/client/resource/"
+	],
+"clientList":[
+		"主干|http://192.168.1.252:8081/trunk/client/entrance/mu.html",
+		"外网|http://192.168.1.252:8081/branch_waiwang/client/entrance/mu.html",
+		"韦旭华|http://192.168.1.110:8082/trunk/client/entrance/mu.html",
+		"韦旭华台湾|http://192.168.1.110:8082/branches/branch_tw/client/entrance/mu.html",
+		"盟重之约|http://192.168.1.101/branches/branch_xlzc/client/entrance/mu.html",
+		"千梦英雄|http://192.168.1.252:8081/qm_hero_trunk/client/entrance/mu.html"
+	]
+}

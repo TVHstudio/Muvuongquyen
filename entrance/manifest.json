@@ -1,0 +1,9 @@
+{
+	"initial": [
+		"../resource/engine.js"
+	,	"../resource/entry.min.js"
+	],
+	"game": ["../resource/main.min.js"
+
+]
+}

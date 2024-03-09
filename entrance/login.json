@@ -1,0 +1,58 @@
+﻿{
+"serverList":[		
+		"外网分支|65010|192.168.1.250:9413",
+		"小游戏分支|65015|192.168.1.250:9414",
+		"外网|65002|192.168.1.250:9411",
+		"外网分支|65010|192.168.1.250:9413",
+        "小游戏分支|65015|192.168.1.250:9414",
+		"朱鸣枪|65003|192.168.1.111:9400",
+		"邓智琦|65007|192.168.1.58:9502",
+		"胡小文|65005|192.168.1.101:9401",
+		"s1服|65011|192.168.1.119:9401",
+		"刘会福|65013|192.168.1.116:9401",
+		"大混服|65010|192.168.1.250:9413",
+		"梁伟业|65018|192.168.1.118:9401",
+		"钟锦钊|65019|192.168.1.44:9401",
+		"胡兆森|65021|192.168.1.199:9401",
+		"锦林|65022|192.168.1.46:9401",	
+		"潘婷|65000|192.168.1.55:9400",
+		"新加的不要放在最后一行|0|192.168.1.1:9401"
+	],
+"resList":[
+		"外网分支|http://192.168.1.252:8081/waiwang2/client/resource/",
+		"胡小文|http://192.168.1.101:8081/branches/waiwang2/client/resource/",
+		"罗阳|http://192.168.1.112/develop/zhuoyue2/data/branches/waiwang2/client/resource/",
+		"邓智琦|http://192.168.1.58:8081/branches/waiwang2/client/resource/",
+		"韦旭华|http://192.168.1.110:8086/branches/waiwang2/client/resource/",
+		"谢海城|http://192.168.1.120:8081/branches/waiwang2/client/resource/",
+		"朱志勇|http://192.168.1.103:8091/branches/waiwang2/client/resource/"
+
+	],
+"clientList":[
+		"卓越2主干|http://192.168.1.252:8081/trunk2/client/entrance/mu.html",
+		"卓越2外网分支|http://192.168.1.252:8081/waiwang2/client/entrance/mu.html",
+		"卓越2外网入口|https://zycdn.h5eco.com/waiwang2/entrance/zycs.html?pfId=zy&openId=zz99",
+		"卓越2小游戏|http://192.168.1.252:8081/trunk2/client/entrance/mu.html?pfId=wxxyx&password=111111",
+        "卓越2胡小文小游戏|http://192.168.1.101:8081/branches/wxxyx/client/entrance/mu.html?pfId=wxxyx&password=111111",
+		"卓越2朱志勇|http://192.168.1.103:8091/trunk/client/entrance/mu.html",
+		"卓越2韦旭华|http://192.168.1.110:8086/trunk/client/entrance/mu.html",
+		"卓越2郭雪林|http://192.168.1.104:8080/trunk/client/entrance/mu.html",
+		"卓越2胡兆森|http://192.168.1.199:80/client/entrance/mu.html",
+		"卓越2刘会福|http://192.168.1.116:8080/trunk/client/entrance/mu.html",
+		"卓越2潘婷|http://192.168.1.55:7020/client/entrance/mu.html",
+		"卓越2会福小游戏|http://192.168.1.116:8080/client/entrance/mu.html?pfId=wxxyx&password=111111",
+
+		"卓越1主干|http://192.168.1.252:8081/trunk/client/entrance/mu.html",
+		"卓越2小游戏|http://192.168.1.252:8081/trunk2/client/entrance/mu.html?pfId=wxxyx&password=111111",
+		"卓越2胡小文小游戏|http://192.168.1.101:8081/branches/wxxyx/client/entrance/mu.html?pfId=wxxyx&password=111111",
+		"朱志勇|http://192.168.1.103:8091/trunk/client/entrance/mu.html",
+		"韦旭华|http://192.168.1.110:8086/trunk/client/entrance/mu.html",
+		"郭雪林|http://192.168.1.104:8080/trunk/client/entrance/mu.html",
+		"刘会福|http://192.168.1.116:8080/trunk/client/entrance/mu.html",
+		"刘会福2小游戏|http://192.168.1.116:8080/client/entrance/mu.html?pfId=wxxyx&password=111111",
+		"传奇郭雪林|http://192.168.1.104:8080/branches/zy2_chuanqi/client/entrance/mu.html",
+		"台湾胡小文|http://192.168.1.101:8081/branches/taiwan/client/entrance/mu.html?pfId=zyyx&password=111111",
+		"新加的不要放在最后一行|http://192.168.1.252:8081/trunk2/client/entrance/mu.html"
+
+	]
+}
